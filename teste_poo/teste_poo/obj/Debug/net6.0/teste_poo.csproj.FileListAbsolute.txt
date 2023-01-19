@@ -1,0 +1,15 @@
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\bin\Debug\net6.0\teste_poo.exe
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\bin\Debug\net6.0\teste_poo.deps.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\bin\Debug\net6.0\teste_poo.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\bin\Debug\net6.0\teste_poo.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\bin\Debug\net6.0\teste_poo.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.csproj.AssemblyReference.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\refint\teste_poo.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\teste_poo.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\teste_poo\teste_poo\obj\Debug\net6.0\ref\teste_poo.dll

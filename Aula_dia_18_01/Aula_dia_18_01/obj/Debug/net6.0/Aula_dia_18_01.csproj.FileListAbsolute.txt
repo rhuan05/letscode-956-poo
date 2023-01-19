@@ -1,0 +1,15 @@
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\bin\Debug\net6.0\Aula_dia_18_01.exe
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\bin\Debug\net6.0\Aula_dia_18_01.deps.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\bin\Debug\net6.0\Aula_dia_18_01.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\bin\Debug\net6.0\Aula_dia_18_01.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\bin\Debug\net6.0\Aula_dia_18_01.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.csproj.AssemblyReference.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\refint\Aula_dia_18_01.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\Aula_dia_18_01.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\Aula_dia_18_01\Aula_dia_18_01\obj\Debug\net6.0\ref\Aula_dia_18_01.dll

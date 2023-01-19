@@ -1,0 +1,15 @@
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.csproj.AssemblyReference.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\bin\Debug\net6.0\AtividadePOO_mod3.exe
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\bin\Debug\net6.0\AtividadePOO_mod3.deps.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\bin\Debug\net6.0\AtividadePOO_mod3.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\bin\Debug\net6.0\AtividadePOO_mod3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\bin\Debug\net6.0\AtividadePOO_mod3.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\refint\AtividadePOO_mod3.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\AtividadePOO_mod3.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\AtividadePOO_mod3\AtividadePOO_mod3\obj\Debug\net6.0\ref\AtividadePOO_mod3.dll

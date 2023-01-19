@@ -1,0 +1,15 @@
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\bin\Debug\net6.0\poo-aula1.exe
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\bin\Debug\net6.0\poo-aula1.deps.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\bin\Debug\net6.0\poo-aula1.runtimeconfig.json
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\bin\Debug\net6.0\poo-aula1.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\bin\Debug\net6.0\poo-aula1.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.csproj.AssemblyReference.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.csproj.CoreCompileInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\refint\poo-aula1.dll
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.pdb
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\poo-aula1.genruntimeconfig.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\poo-aula1\poo-aula1\obj\Debug\net6.0\ref\poo-aula1.dll

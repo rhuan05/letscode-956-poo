@@ -1,0 +1,5 @@
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\banco\banco\obj\Debug\net6.0\banco.csproj.AssemblyReference.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\banco\banco\obj\Debug\net6.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\banco\banco\obj\Debug\net6.0\banco.AssemblyInfoInputs.cache
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\banco\banco\obj\Debug\net6.0\banco.AssemblyInfo.cs
+C:\Users\rhuan\OneDrive\Área de Trabalho\letscode-956-poo\banco\banco\obj\Debug\net6.0\banco.csproj.CoreCompileInputs.cache
